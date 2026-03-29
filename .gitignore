@@ -1,3 +1,4 @@
 node_modules
 # Soroban test snapshots — now committed as regression guards
 # gateway-contract/contracts/**/test_snapshots/
+config.bat
